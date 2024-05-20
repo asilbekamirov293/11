@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+}
+.box {
+    background-color: white;
+    border-top: 5px solid rgb(255, 0, 85);
+    width: 200px;
+    height: 175px;
+    border-radius: 20px 50px 50px 50px;
+}
+.box2 {
+    background-color: white;
+    border-top: 5px solid rgb(64, 0, 255);
+    width: 200px;
+    height: 175px;
+    border-radius: 20px 50px 50px 50px;
+}
+.box3 {
+    background-color: white;
+    border-top: 5px solid rgb(255, 119, 0);
+    width: 200px;
+    height: 175px;
+    border-radius: 20px 50px 50px 50px;
+}
+.box4 {
+    background-color: white;
+    border-top: 5px solid skyblue;
+    width: 200px;
+    height: 175px;
+    border-radius: 20px 50px 50px 50px;
+}
+.box5 {
+    background-color: white;
+    border-top: 5px solid rgb(255, 221, 0);
+    width: 200px;
+    height: 175px;
+    border-radius: 20px 50px 50px 50px;
+}
+.box6 {
+    background-color: white;
+    border-top: 5px solid rgb(0, 98, 255);
+    width: 200px;
+    height: 175px;
+    border-radius: 20px 50px 50px 50px;
+}
